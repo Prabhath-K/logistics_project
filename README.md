@@ -18,7 +18,7 @@ This project analyzes the fleet performance of a logistics company using Microso
 - **Microsoft Excel:** Data cleaning and preparation.
 - **Power BI Desktop:** Data modeling, DAX measures and dashboard creation.
 - **DAX (Data Analysis Expressions):** KPI calculations.
-- [Original dataset](https://github.com/GeethaGunasekaran1/Dataset_rep/blob/main/logistics_project_dataset.xlsx)
+
 
 ### Dataset fields
 
